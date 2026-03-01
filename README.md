@@ -13,16 +13,16 @@ This repository contains a folder which has all the Jupyter files I used when le
 ### Week 2
 - Removing items from a tuple- converted it to a list first.
 - More on sets:
-i) Creating a set.
-ii) Testing properties of a set- no duplicates.
-ii) Data types in a set.
-iii) Adding items in a set. 
-iv) Adding items from another set.
-vi) Removing items from a set:
-    a)using remove() method.
-    b)using discard()method.
-    c)using pop()method.
-    d)using clear()method.
+> Creating a set.
+> Testing properties of a set- no duplicates.
+> Data types in a set.
+> Adding items in a set. 
+> Adding items from another set.
+> Removing items from a set:
+  > using remove() method.
+  > using discard()method.
+  > using pop()method.
+  > using clear()method.
 
 ### Week 3
 - Changing lower case to upper case and vice versa.
